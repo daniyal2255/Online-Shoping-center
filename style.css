@@ -1,0 +1,36 @@
+
+h1 {
+    color: darkturquoise;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+p {
+    word-spacing: 180px;
+    text-align: center;
+}
+a {
+    color: white;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+fieldset {
+    background-color: darkblue;
+}
+.FOOD{
+    color:  darkblue;
+}
+
+td {
+    background: darkblue ;
+    text-align: center;
+    color: darkturquoise ;
+}
+.about {
+    color: white;
+}
+.list {
+    color: darkturquoise ;
+}
+body {
+    background-color: aqua;
+}
